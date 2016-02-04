@@ -1,2 +1,5 @@
 # roman-numerals
-Quiz 8 of Best of Ruby Quiz book.
+Roman Numerals
+=====================
+
+Quiz 8 of *Best of Ruby Quiz* book.
